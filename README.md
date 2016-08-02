@@ -1,2 +1,2 @@
 # Intro-to-ML
-introduction presentation to my own path into the facinating world of data science &amp; machine learning
+Introduction presentation to my own path into the facinating world of data science &amp; machine learning
